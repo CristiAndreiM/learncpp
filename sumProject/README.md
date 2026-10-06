@@ -8,4 +8,7 @@ C++ program, demonstrating:
 ## Build
 g++ -std=c++17 -Wall -Wextra main.cpp -o program
 ./program
+
+Output sample:
+
 <img width="587" height="119" alt="image" src="https://github.com/user-attachments/assets/3f68ed27-9d2e-4139-bc5c-f55d3db4fc33" />
